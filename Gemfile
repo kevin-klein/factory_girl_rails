@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
+gem 'factory_girl', :git => 'https://github.com/kevin-klein/factory_girl.git'
+
 gem 'appraisal'
 gem 'aruba'
 gem 'coffee-rails'
